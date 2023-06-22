@@ -3,8 +3,8 @@
 
 ## Установка
 `
-python3 -m venv venv_nginx_proxy_sizer
-source venv_nginx_proxy_sizer/bin/activate
+python3 -m venv venv_nginx_proxy_sizer &&
+source venv_nginx_proxy_sizer/bin/activate &&
 pip install -r requirements.txt
 `
 
